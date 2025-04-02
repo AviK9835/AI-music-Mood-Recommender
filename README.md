@@ -19,16 +19,45 @@ To install and set up this project locally, follow these steps:
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/yourusername/AI_Music_Mood_Recommender.git
+   ```
+2. **Navigate to the project directory:**
+   ```sh
+   cd AI_Music_Mood_Recommender
+   ```
+3. **Install dependencies:**
+   ```sh
+   npm install
+   ```
 
-Contributing
+## Usage
+
+Run the following command to start the project:
+
+```sh
+npm run dev
+```
+
+Then, open your browser and go to `http://localhost:5173`.
+
+## Interactive Demo
+
+[![Launch AI Music Mood Recommender](https://img.shields.io/badge/Launch-Demo-blue?style=for-the-badge&logo=appveyor)](https://your-demo-link.com)
+
+## Contributing
+
 If you would like to contribute, follow these steps:
 
-Fork the repository.
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add new feature'`).
+4. Push to your branch (`git push origin feature-branch`).
+5. Open a pull request.
 
-Create a new branch (git checkout -b feature-branch).
+## License
 
-Commit your changes (git commit -m 'Add new feature').
+This project is licensed under the [MIT License](LICENSE).
 
-Push to your branch (git push origin feature-branch).
+## Contact
 
-Open a pull request.
+For any questions, please contact [your email or GitHub profile link].
+
